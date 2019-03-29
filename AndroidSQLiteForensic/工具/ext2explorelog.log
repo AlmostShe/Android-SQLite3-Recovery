@@ -1,0 +1,13 @@
+Error Opening \\.\PhysicalDrive1. Error Code 2
+No of disks 1
+Scanning \\.\PhysicalDrive0
+index 0 ID EE size -1 
+Partition Table Error on F:/UCAS/image/LGUserdata.bin
+Invalid End of sector markerBlock size 4096, inp 8144, inodesize 256
+Linux Partition found on disk 2 partition 0
+Inode 24434 with file size 0
+Inode 276898 with file size 0
+Inode 228048 with file size 0
+Inode 618965 with file size 0
+Inode 618983 with file size 0
+Inode 618981 with file size 0
